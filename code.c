@@ -7,7 +7,7 @@ main()
 	int a,b,c;
 	clrscr();
 	
-	a=10;
+	a=100;
 	b=20;
 	c=a+b;
 	printf(" the additon of two numbers = %d",c);
