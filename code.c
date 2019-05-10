@@ -5,7 +5,7 @@
 
 main()
 {
-	int a,b,c,d,e;
+	int a,b,c,d,e,g;
 	clrscr();
 	
 	a=100;
